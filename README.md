@@ -1,11 +1,9 @@
 # Time_Series_homework
-My Week 10 Homework
+Homework assignment outline md and all code and resources are in the instructions folder
 
-Unit 10—A Yen for the Future
+**Unit 10—A Yen for the Future**
 
-In this assignment, we will test the many time series tools that we have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
-
-We will be using the following methods:
+In this assignment I will be using the following methods to predict future movements in the value of the Canadian dollar versus the Japanese yen:
 
   * Time series forecasting: 
                
