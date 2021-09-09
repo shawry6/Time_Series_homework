@@ -1,5 +1,5 @@
 # Time_Series_homework
-Homework assignment outline md and all code and resources are in the instructions folder
+Homework assignment outline md and all code including **"my_time_series_analysis.ipynb"** and **"my_regression_analysis.ipynb"** and resources are in the instructions folder
 
 **Unit 10—A Yen for the Future**
 
